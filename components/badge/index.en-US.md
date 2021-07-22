@@ -13,7 +13,7 @@ Badge normally appears in proximity to notifications or user avatars with eye-ca
 
 ## APIhhhh
 
-### Badge
+### Badgeasd
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
