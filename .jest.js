@@ -3,7 +3,7 @@ const transformIgnorePatterns = [
   // Ignore modules without es dir.
   // Update: @babel/runtime should also be transformed
   'node_modules/(?!.*@(babel|ant-design))[^/]+?/(?!(es|node_modules)/)',
-];
+];2
 
 function getTestRegex(libDir) {
   if (libDir === 'dist') {
